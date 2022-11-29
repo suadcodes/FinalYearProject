@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "expo": "^47.0.6",
     "metro-core": "^0.73.3",
+    "node-sass": "^8.0.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "^0.70.6",
@@ -43,7 +44,5 @@
   },
   "devDependencies": {
     "metro": "^0.73.3"
-    
   }
-  
 }
