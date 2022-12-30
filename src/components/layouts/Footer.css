@@ -1,0 +1,14 @@
+footer {
+    height: 50px;
+    display: grid;
+    place-items: center;
+    
+    background-color: #6c6c6c;
+    
+  }
+  
+  footer div {
+      font-size: 70%;
+      text-decoration: none;
+      color: #000000;
+  }
